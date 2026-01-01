@@ -1,5 +1,11 @@
 
 <h1 align="center">Hi there, I'm Hariharan 👋</h1>
+<p align="center">
+  <a href="https://github.com/rvhariharan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670F7&center=true&vCenter=true&width=210&height=210&lines=" alt="Glowing border" style="background-image: url('hari_haran.jpg'); background-size: cover; background-position: center; border-radius: 50%; width: 200px; height: 200px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4106-b35c-a901d2550480.gif" width="210" height="210" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none;">
+  </a>
+</p>
 
 
 <p align="center">
