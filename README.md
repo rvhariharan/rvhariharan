@@ -1,22 +1,18 @@
 
 <h1 align="center">Hi there, I'm Hariharan 👋</h1>
-<p align="center">
-  <a href="https://github.com/rvhariharan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670F7&center=true&vCenter=true&width=210&height=210&lines=" alt="Glowing border" style="background-image: url('hari_haran.jpg'); background-size: cover; background-position: center; border-radius: 50%; width: 200px; height: 200px;">
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4106-b35c-a901d2550480.gif" width="210" height="210" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none;">
-  </a>
-</p>
+<div align="center">
 
+<img src="hari_haran-modified.png" width="200" alt="Hariharan" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&pause=1000&color=3670F7&center=true&width=490&lines=A+Web+Developer+%26+Web+Designer;Passionate+Full+Stack+Developer" alt="Typing Animation">
-</p>
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670F7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing Animation" />
 
 <p align="center">
   I am a Full Stack Developer with project experience in Web Development & Desktop Applications, focusing on modern UI design and user-friendly web apps. I constantly explore new technologies and have basic knowledge of Figma for UI/UX design.
 </p>
 
+---
 
+</div>
 
 ### 🛠️ Tools I Use
 <p align="center">
@@ -114,8 +110,6 @@
 
 <h2 id="experience">💼 Experience</h2>
 
-### 💼 Experience
-
 #### **Web Design Intern** | *May 2025*
 > **Artificial Tech** (Remote)
 > * 🎮 **Focus:** Game Development & Logic 
@@ -132,7 +126,7 @@
 
 ---
 
-### 📜 Certifications
+<h2>📜 Certifications </h2>
 
 | Certificate Name | Score / Status | Issuing Organization | Date | View |
 | :--- | :--- | :--- | :--- | :---: |
